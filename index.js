@@ -63,6 +63,9 @@ client.on("messageCreate", (message) => {
   if (message.content.toLowerCase() == "bot") {
     message.reply("C'est celui qui le dit qu'il l'est");
   }
+  if (message.content.toLowerCase() == "quoi") {
+    message.reply("FEUR!!!");
+  }
 });
 
 // Envoyer un message tous les jours à 15 heures
