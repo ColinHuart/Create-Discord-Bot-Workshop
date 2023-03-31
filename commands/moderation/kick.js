@@ -18,3 +18,11 @@ module.exports = {
     });
   },
 };
+
+// KICK USER
+// const member = interaction.options.getMember('target');
+// member.kick();
+
+// BAN USER
+// const user = interaction.options.getUser('target');
+// guild.members.ban(user);
