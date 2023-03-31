@@ -17,7 +17,7 @@ You can set up your bot on [Discord Developer Portal](https://discord.com/develo
 
 ## Have Fun
 
-When you add a Slash command, don't forget to **node deploy-commands.js**
+When you add a Slash command, don't forget to **node deploy-commands.js**.
 Otherwise, just do **node .** to run the bot and put it online.
 
 I suggest you strongly to read the [official documentation](https://discordjs.guide/) to help you set up the bot
